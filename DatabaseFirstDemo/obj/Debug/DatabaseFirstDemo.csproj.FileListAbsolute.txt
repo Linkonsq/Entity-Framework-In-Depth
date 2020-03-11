@@ -1,0 +1,11 @@
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csprojAssemblyReference.cache
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CopyComplete
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+D:\Programming\ASP.NET\EntityFramworkInDepth\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb
