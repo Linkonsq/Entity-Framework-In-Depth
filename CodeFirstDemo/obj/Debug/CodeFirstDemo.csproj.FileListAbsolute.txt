@@ -1,0 +1,13 @@
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\EntityFramework.dll
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\EntityFramework.xml
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojAssemblyReference.cache
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.CreatePost.resources
+D:\Programming\ASP.NET\EntityFramworkInDepth\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.cache
